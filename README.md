@@ -17,3 +17,17 @@ This web application allows students to find empty classrooms in real-time and e
 - **Authentication**: JWT (JSON Web Tokens) for secure login
 - **Routing**: React Router for navigating between pages
 - **State Management**: React Context API (for handling authentication and user state)
+
+## Future Advancements
+- **Mandatory Login for Students and Teachers**: Every individual will be required to log in to the application. This will allow us to keep track of the number of students present in a classroom.
+- **Classroom Capacity Management**: Based on student logins, the application will monitor classroom capacity. Once a classroom reaches its full capacity, it will be automatically removed from the list of available rooms.
+- **Advanced Booking System**: Teachers will have the ability to book rooms in advance and receive confirmation or reminders for their reservations.
+- **Mobile App**: A mobile version of the application for easier access on the go.
+
+## Contribution
+Feel free to fork the repository, make any improvements, and create pull requests. Contributions are always welcome!
+
+## Contact
+For any queries or feedback, reach out to us at: 
+- Email: deepugagan16@gmail.com
+- GitHub: [deepugagan16](https://github.com/deepugagan16)
